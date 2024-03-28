@@ -14,14 +14,9 @@ export default function Music() {
 return (
 
 <main className="row justify-content-center">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css"></link>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"></link>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" ></script>
   <div id="main" className="w-100 h-100 d-lg-flex flex-lg-row flex-sm-column justify-content-center align-items-center p-3">
     <div id='main-div' className="rounded box_shadow mx-sm-auto mb-sm-4">
-      <img id="img1" src={headphones} width="250px" height="250px" className="rounded-circle mt-5 mx-5 mb-4 shadow"></img>
+      <img id="img1" src={headphones} alt="Headphones" width="250px" height="250px" className="rounded-circle mt-5 mx-5 mb-4 shadow"></img>
      <h3 id='h3' className=" text-center text-white mb-2 mt-3">DJ Pili$o$ - PlayList</h3>
       <div>
 	<ul id="list" className=" h-50 text-white overflow-scroll overflow-x-hidden list-unstyled font-weight-bold">

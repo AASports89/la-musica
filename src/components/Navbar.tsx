@@ -14,7 +14,7 @@ export default function Navbar() {
         <nav id="navbar" className="navbar navbar-expand-lg navbar-light bg-light">     
           <div className="col-2 justify-center">
             <h1 className="text-hide">
-                <img id='logo' src={logo} className="card-img" alt="logo"  data-aos="slide-right"/>
+                <img id='logo' src={logo} className="card-img" alt="Logo"  data-aos="slide-right"/>
             </h1>
           </div>
           <div className="col-10">
