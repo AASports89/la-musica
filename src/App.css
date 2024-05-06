@@ -9,13 +9,18 @@
 } */
 
 #header {
-  background-color: #9bbed9;
+  background-color: #dbe9f7;
   width: 100%;
   font-size: calc(10px + 2vmin);
+  border-radius: 0.5em;
+}
+
+#navbar {
+  border-radius: 0.5em;
 }
 
 #logo {
-  width: 50%;
+  width: 60%;
 }
 .card {
   border: none;
