@@ -13,15 +13,27 @@
   width: 100%;
   font-size: calc(10px + 2vmin);
   border-radius: 0.5em;
+  border: rgb(6, 6, 195) solid 1px;
 }
 
 #navbar {
   border-radius: 0.5em;
+  box-shadow:  rgba(10, 65, 214, 0.25) 12px 54px 55px, rgba(10, 65, 214, 0.25) 0px -12px 30px, rgba(10, 65, 214, 0.25) 0px 4px 6px, rgba(10, 65, 214, 0.25) 0px 12px 13px, rgba(10, 65, 214, 0.25) 0px -3px 5px;
 }
 
 #logo {
   width: 60%;
 }
+
+#custom_1 {
+ color: rgb(6, 6, 195);
+ padding: 2.5%;
+}
+
+#logo_1 {
+  width: 20%;
+}
+
 .card {
   border: none;
 }
@@ -62,7 +74,6 @@
   font-size: 110%;
 }
 
-
 #custom {
   color:rgb(6, 6, 195);
   text-decoration: none;
@@ -95,8 +106,10 @@
 
 #footer {
   background-color: transparent;
-  border-top: 1.5px solid black;
+  border-top: 1px solid black;
+  border-radius: 0.5em;
   padding-top: 1%;
+  box-shadow:  rgba(10, 65, 214, 0.25) 12px 54px 55px, rgba(10, 65, 214, 0.25) 0px -12px 30px, rgba(10, 65, 214, 0.25) 0px 4px 6px, rgba(10, 65, 214, 0.25) 0px 12px 13px, rgba(10, 65, 214, 0.25) 0px -3px 5px;
 }
 
 #footer-title {
