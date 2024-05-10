@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/la-musica/static/css/main.3f428992.css",
+    "main.js": "/la-musica/static/js/main.5b62738c.js",
+    "static/js/453.2708d935.chunk.js": "/la-musica/static/js/453.2708d935.chunk.js",
+    "static/media/DeezNuuts.mp3": "/la-musica/static/media/DeezNuuts.16e0c7f27ba0cb0e8305.mp3",
+    "static/media/headphones.svg": "/la-musica/static/media/headphones.9e9b4476cbd0acd62cc35116a85d87fc.svg",
+    "index.html": "/la-musica/index.html",
+    "main.3f428992.css.map": "/la-musica/static/css/main.3f428992.css.map",
+    "main.5b62738c.js.map": "/la-musica/static/js/main.5b62738c.js.map",
+    "453.2708d935.chunk.js.map": "/la-musica/static/js/453.2708d935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f428992.css",
+    "static/js/main.5b62738c.js"
+  ]
+}
