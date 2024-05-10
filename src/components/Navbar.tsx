@@ -18,7 +18,30 @@ export default function Navbar() {
           </div>
           <div className="col-10">
             <h2 className="card-header">
-         
+            <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
+          </img>  
+          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
               </h2>
           </div>
         </nav>

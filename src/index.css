@@ -17,10 +17,23 @@ body {
   background-size: cover;
 }
 
+#bday {
+  background-image: url("https://res.cloudinary.com/dhqsixgmo/image/upload/v1715377745/bday_yhjssl.gif");
+  background-size: cover;
+  height: 750px;
+  width: 750px;
+}
+
 .container {
   background-image: linear-gradient(rgb(197, 199, 208) 0%, rgb(109, 109, 116) 100%);
   border-radius: 0.5em;
   border: 1px solid black;
+}
+
+#bday_card {
+  font-size: 3rem;
+  color:aliceblue;
+  font-weight: bold;
 }
 
 .hero {

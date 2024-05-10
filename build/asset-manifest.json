@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/AASports89/la-musica/static/css/main.3bf04356.css",
-    "main.js": "/AASports89/la-musica/static/js/main.ecf3af2c.js",
-    "static/js/453.2708d935.chunk.js": "/AASports89/la-musica/static/js/453.2708d935.chunk.js",
-    "static/media/DeezNuuts.mp3": "/AASports89/la-musica/static/media/DeezNuuts.16e0c7f27ba0cb0e8305.mp3",
-    "static/media/logo192.svg": "/AASports89/la-musica/static/media/logo192.3e7732b94a793c293378cd57786c39f9.svg",
-    "static/media/logo.svg": "/AASports89/la-musica/static/media/logo.b5778b41286aac3df35b7be3cbd183b3.svg",
-    "static/media/headphones.svg": "/AASports89/la-musica/static/media/headphones.9e9b4476cbd0acd62cc35116a85d87fc.svg",
-    "index.html": "/AASports89/la-musica/index.html",
-    "main.3bf04356.css.map": "/AASports89/la-musica/static/css/main.3bf04356.css.map",
-    "main.ecf3af2c.js.map": "/AASports89/la-musica/static/js/main.ecf3af2c.js.map",
-    "453.2708d935.chunk.js.map": "/AASports89/la-musica/static/js/453.2708d935.chunk.js.map"
+    "main.css": "/AASports89/la-musica/tree/gh-pages/static/css/main.946e2c06.css",
+    "main.js": "/AASports89/la-musica/tree/gh-pages/static/js/main.0dd58939.js",
+    "static/js/453.2708d935.chunk.js": "/AASports89/la-musica/tree/gh-pages/static/js/453.2708d935.chunk.js",
+    "static/media/DeezNuuts.mp3": "/AASports89/la-musica/tree/gh-pages/static/media/DeezNuuts.16e0c7f27ba0cb0e8305.mp3",
+    "static/media/headphones.svg": "/AASports89/la-musica/tree/gh-pages/static/media/headphones.9e9b4476cbd0acd62cc35116a85d87fc.svg",
+    "index.html": "/AASports89/la-musica/tree/gh-pages/index.html",
+    "main.946e2c06.css.map": "/AASports89/la-musica/tree/gh-pages/static/css/main.946e2c06.css.map",
+    "main.0dd58939.js.map": "/AASports89/la-musica/tree/gh-pages/static/js/main.0dd58939.js.map",
+    "453.2708d935.chunk.js.map": "/AASports89/la-musica/tree/gh-pages/static/js/453.2708d935.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bf04356.css",
-    "static/js/main.ecf3af2c.js"
+    "static/css/main.946e2c06.css",
+    "static/js/main.0dd58939.js"
   ]
 }
