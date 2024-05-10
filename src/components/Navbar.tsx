@@ -16,7 +16,19 @@ export default function Navbar() {
                 <img id='logo' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714965196/logo192_haaszm.svg" className="card-img" alt="Logo"  data-aos="slide-right"/>
             </h1>
           </div>
-          <div className="col-10">
+          <div className="col-3">
+            <h2 className="card-header">
+                <img id='logo_1' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" className='card-img' alt="Vac" data-aos="slide-left"></img>
+                <i id='custom_1' data-aos="slide-right" className="fa-solid fa-vacuum"></i>
+            </h2>
+          </div>
+          <div className="col-3">
+            <h2 className="card-header">
+                <img id='logo_1' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" className='card-img' alt="Vac" data-aos="slide-left"></img>
+                <i id='custom_1' data-aos="slide-right" className="fa-solid fa-vacuum"></i>
+            </h2>
+          </div>
+          <div className="col-3">
             <h2 className="card-header">
             <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
           </img>  
