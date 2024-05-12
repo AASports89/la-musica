@@ -12,14 +12,7 @@ function App() {
     <div className="container-fluid">
       <Navbar />
       <Music />
-      <div id="bday" className="container-fluid">
-        <div className='card-header' id='bday_card'>
-        #PilisosOverPurposeHappyBdayGary
-        </div>
-    
-      </div>
         <footer data-aos="slide-up" id='footer' className='App-footer'>				
-          <header className="App-header">
             <div className="row justify-content-md-center">
               <div className="col-12 justify-content-center" id="footer-div">
                 <h1 className='card-header' id='footer-card'>
@@ -27,7 +20,6 @@ function App() {
                 </h1> 	
               </div>
             </div>
-          </header>
         </footer>
     </div>
 );

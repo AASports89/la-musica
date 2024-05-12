@@ -1,5 +1,6 @@
 .container-fluid {
   text-align: center;
+  width: 100%;
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
@@ -10,7 +11,7 @@
 
 #header {
   background-color: #dbe9f7;
-  width: 100%;
+  width: auto;
   font-size: calc(10px + 2vmin);
   border-radius: 0.5em;
   border: rgb(6, 6, 195) solid 1px;
@@ -18,11 +19,12 @@
 
 #navbar {
   border-radius: 0.5em;
+  width: 100%;
   box-shadow:  rgba(10, 65, 214, 0.25) 12px 54px 55px, rgba(10, 65, 214, 0.25) 0px -12px 30px, rgba(10, 65, 214, 0.25) 0px 4px 6px, rgba(10, 65, 214, 0.25) 0px 12px 13px, rgba(10, 65, 214, 0.25) 0px -3px 5px;
 }
 
 #logo {
-  width: 60%;
+  width: 75%;
 }
 
 #custom_1 {
@@ -36,12 +38,6 @@
 
 .card {
   border: none;
-}
-
-#banner {
-  width: 50%;
-  background: transparent;
-  justify-content: center;
 }
 
 #home {

@@ -9,43 +9,27 @@ export default function Navbar() {
 	}, [])
 
     return (
-		<div className="col-12">
+		<div className="container-fluid">
         <nav id="navbar" className="navbar navbar-expand-lg navbar-light bg-light">     
           <div className="col-2 justify-center">
             <h1 className="text-hide">
                 <img id='logo' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714965196/logo192_haaszm.svg" className="card-img" alt="Logo"  data-aos="slide-right"/>
             </h1>
           </div>
-          <div className="col-10">
-            <h2 className="card-header">
-            <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-          <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" >
-          </img>  
-          <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
-              </h2>
-          </div>
+            <h2 className="navbar navbar-expand-lg navbar-light bg-light">
+              <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" ></img>  
+              <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+              <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" ></img>  
+              <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+              <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" ></img>  
+              <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+              <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" ></img>  
+              <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+              <img id='home' src="https://res.cloudinary.com/dhqsixgmo/image/upload/v1714988181/vac_esrr3i.svg" data-aos="slide-right" ></img>  
+              <i id='custom-icon' data-aos="slide-left" className="fa-solid fa-vacuum"></i>
+            </h2>
         </nav>
-        <header id='header' className="navbar navbar-expand-lg">
+        <h2 id='header' className="navbar navbar-expand-lg">
           <a id='home' data-aos="flip-right" className="nav-link active" href='/'>
             {/* <i id='home-icon' className="fa-solid fa-house"></i>  */}
             <i id='custom-icon' className="fa-solid fa-vacuum"></i>
@@ -59,6 +43,6 @@ export default function Navbar() {
           <i id='custom-icon' className="fa-solid fa-clapperboard"></i>
           Movies
             </a> */}
-        </header>
+        </h2>
       </div>
     )};
